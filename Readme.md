@@ -9,3 +9,6 @@ Assignment 2: 95% (-5% for late submission)
 Assignment 3: 90% (-10% for late submission)
 
 Assignment 4: 100%
+
+Assignment 5: 100%
+
