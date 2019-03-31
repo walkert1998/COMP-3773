@@ -16,3 +16,5 @@ Assignment 5: 100%
 
 ## Labs
 Lab 1: 100%
+
+Lab 2: 100%
