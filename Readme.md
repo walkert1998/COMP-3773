@@ -5,3 +5,7 @@ This is a collection of all assignments and labs completed for COMP 3773 (Adv. O
 Assignment 1: 100%
 
 Assignment 2: 95% (-5% for late submission)
+
+Assignment 3: 90% (-10% for late submission)
+
+Assignment 4: 100%
