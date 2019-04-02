@@ -20,3 +20,7 @@ Lab 1: 100%
 Lab 2: 100%
 
 Lab 3: 90% (-10% for late submission)
+
+Lab 4: 100%
+
+Lab 5: 100%
