@@ -18,3 +18,5 @@ Assignment 5: 100%
 Lab 1: 100%
 
 Lab 2: 100%
+
+Lab 3: 90% (-10% for late submission)
