@@ -14,6 +14,8 @@ Assignment 4: 100%
 
 Assignment 5: 100%
 
+Assignment 6: 100%
+
 ## Labs
 Lab 1: 100%
 
